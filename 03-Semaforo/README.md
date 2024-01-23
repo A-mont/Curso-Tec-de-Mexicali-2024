@@ -1,0 +1,1 @@
+# Standard Contract Template 
