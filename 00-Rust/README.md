@@ -1,5 +1,34 @@
 # Rust para contratos inteligentes
 
+### Crear nuevo proyecto en rust
+
+```rust
+cargo new nombre_del_proyecto
+```
+
+### Crear nueva libreria
+ 
+```rust
+cargo new nombre_de_libreria --lib
+```
+
+### Compilar para Producción:
+
+```rust
+cargo build --release
+```
+
+### Compilar el Proyecto sin Ejecutar:
+
+### Ejecutar proyecto en Rust
+ 
+```rust
+cargo run
+```
+
+
+
+
 # Ejemplos de Rust para Tutorial
 
 A continuación, se presentan algunos ejemplos de código en Rust que destacan sus propiedades más importantes. 
